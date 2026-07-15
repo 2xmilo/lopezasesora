@@ -2,3 +2,12 @@
 desktop.ini
 Thumbs.db
 .DS_Store
+
+# Secretos / entornos (por si a futuro se agregan)
+.env
+.env.*
+*.local
+
+# Vercel / Node (por si a futuro se usan)
+.vercel
+node_modules/
